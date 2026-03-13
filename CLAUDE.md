@@ -16,7 +16,7 @@ source .venv/bin/activate
 streamlit run dashboard_app.py
 
 # Install dependencies
-pip install -r dashboard_requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Architecture
